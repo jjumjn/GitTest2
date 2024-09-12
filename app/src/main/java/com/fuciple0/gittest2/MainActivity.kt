@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         var name= "sam"
         var age = 20
+
+        var addr = "seoul"
     }
 }
